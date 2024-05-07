@@ -1,7 +1,7 @@
 # My Resume Project
 This is a practice to create a Resume in in HTML form
 
-## Using diffent aspect of HTML
+## Using different aspect of HTML
 <b> INCLUDES: </b>
 - paragraphs tags
 - "h1 - h6" tags
