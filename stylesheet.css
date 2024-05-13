@@ -1,3 +1,8 @@
+*{
+    background-color: rgb(236, 235, 235);
+    color: rgb(46, 46, 46);
+}
+
 section, h4{
     text-align: center;
 }
