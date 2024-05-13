@@ -3,9 +3,22 @@ section, h4{
 }
 
 h4{
-    font-size: 16px;
+    font-size: 20px;
 }
 
 #name{
     font-size: 48px;
+}
+
+.containerlogo {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap ;
+   justify-content: center;
+
+}
+
+.itemlogo{
+    margin: 10px;
+
 }
